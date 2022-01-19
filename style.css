@@ -39,7 +39,7 @@ a:visited {
 /* banner */
 .banner {
     position: relative;
-    max-width: 1024px;
+    max-width: 1200px;
     display: block;
 }
 
@@ -58,8 +58,22 @@ a:visited {
 .img-banner {
     border-radius: 1em;
     object-fit: contain;
-    max-width: 100%;
+    width: 100%;
     display: block;
+}
+
+.text {
+    color: white;
+    width: 50%;
+}
+
+.text h1 {
+    font-size: 25px;
+    font-family: Roboto, sans-serif;
+}
+
+.text p{
+    font-family: Roboto, sans-serif;
 }
 
 .text {
@@ -73,7 +87,11 @@ a:visited {
 .little-title {
     margin-top: 2em;
     margin-bottom: 2em;
+}
 
+.little-title h2{
+    font-size: 30px;
+    font-weight: 600;
 }
 
 .left-bar {
