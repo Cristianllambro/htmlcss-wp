@@ -35,3 +35,17 @@ a:visited {
     color: #b7b7b7;
 }
 
+.banner {
+    position: relative;
+    object-fit: contain;
+}
+
+.img-banner {
+    border-radius: 1em;
+}
+
+.text {
+    position: absolute;
+    bottom: 6em;
+    left: 4em;
+}
