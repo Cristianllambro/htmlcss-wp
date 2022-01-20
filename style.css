@@ -11,6 +11,7 @@ body {
 }
 
 .logo {
+    margin-top: 1.5em;
     width: 12em;
     height: 5em;
 }
@@ -52,7 +53,6 @@ a:visited {
     height: 100%;
     background: rgba(0, 0, 0, 0.2);
     border-radius: 1em;
-
 }
 
 .img-banner {
